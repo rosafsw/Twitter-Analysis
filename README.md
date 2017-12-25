@@ -1,7 +1,7 @@
 # Twitter-Analysis
 Here do some basic sentiment analysis based on real time twitter data.
 
-Get Twitter Data\n
+Get Twitter Data\t
 edit the keys and tockens based on twitter application in twitterstream.py
 run " python twitterstream.py > output.txt " and wait at least 3 minutes to generate analysis data
 
